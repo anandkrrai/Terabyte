@@ -1,0 +1,6 @@
+test alert1
+test alert2
+drowsy
+paper
+scissors
+stone
